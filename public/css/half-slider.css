@@ -3,7 +3,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6, .cn {
-    font-family: "Microsoft YaHei", "SimHei";
+    font-family: "Microsoft YaHei", "Tahoma", "SimHei";
 }
 
 .carousel {
