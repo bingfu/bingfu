@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6, .cn {
 }
 
 .carousel {
-	height:50%;
+	height:30%;
 }
 
 .item,
@@ -41,8 +41,4 @@ footer {
 
 .lightskyblue {
     color: lightskyblue;
-}
-
-.bingfu {
-    background-image:url('/img/bingfu.png');
 }

@@ -1,4 +1,8 @@
 img.big {
     width: 90%;
     max-width: 530px;
-}    
+}
+
+.bingfu {
+    background-image:url('img/bingfu.png');
+}
