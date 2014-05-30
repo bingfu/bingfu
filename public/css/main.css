@@ -5,4 +5,6 @@ img.big {
 
 .bingfu {
     background-image:url('img/bingfu.png');
+    width: 90%;
+    max-width: 504px;
 }
