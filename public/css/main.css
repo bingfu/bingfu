@@ -1,12 +1,12 @@
 @font-face
 {
     font-family: "HD HPMST";
-    src: url(HD-HPMST.ttf);
+    src: url("/fonts/HD-HPMST.ttf");
 }
 
 .handwriting
 {
-    font-family: "HD HPMST";
+    font-family: "HD HPMST", "Microsoft YaHei","Tahoma","SimHei";
 }
 
 .cn {
