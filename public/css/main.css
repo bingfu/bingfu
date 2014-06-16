@@ -2,6 +2,17 @@
     font-family: "Microsoft YaHei","Tahoma","SimHei";
 }
 
+@font-face
+{
+    font-family: "HD HPMST";
+    src: url(HD-HPMST.ttf);
+}
+
+.handwriting
+{
+    font-family: "HD HPMST";
+}
+
 
 img.big {
     width: 90%;
