@@ -1,7 +1,3 @@
-.cn {
-    font-family: "Microsoft YaHei","Tahoma","SimHei";
-}
-
 @font-face
 {
     font-family: "HD HPMST";
@@ -13,6 +9,9 @@
     font-family: "HD HPMST";
 }
 
+.cn {
+    font-family: "Microsoft YaHei","Tahoma","SimHei";
+}
 
 img.big {
     width: 90%;
