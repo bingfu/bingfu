@@ -1,6 +1,7 @@
-.cn {
-    font-family: "Microsoft YaHei","Tahoma","SimHei" !important;
+body {
+    font-family: "Microsoft YaHei","Tahoma","SimHei";
 }
+
 
 img.big {
     width: 90%;
