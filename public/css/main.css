@@ -1,3 +1,7 @@
+.cn {
+    font-family: "Microsoft YaHei","Tahoma","SimHei";
+}
+
 img.big {
     width: 90%;
     max-width: 530px;
@@ -8,3 +12,4 @@ img.big {
     width: 90%;
     max-width: 504px;
 }
+
