@@ -13,6 +13,10 @@
     font-family: "Microsoft YaHei","Tahoma","SimHei";
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: "Microsoft YaHei","Tahoma","SimHei" !important;
+}
+
 img.big {
     width: 90%;
     max-width: 530px;
